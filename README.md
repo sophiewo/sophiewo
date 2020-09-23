@@ -4,13 +4,11 @@ Hi, I'm Sophie, a Makers graduate and full-stack developer. Coming from an archi
 
 I am now looking for as a full stack software developper role where I can use my previous experience as well as my new coding skills to make amazing products. 
 
- 🔭 I’m currently working on my website: [sophieworsnop.com](https://sophieworsnop.com), see the github [here](www.github.com/sophiewo)
+ 🔭 **I’m currently working...** on my website [sophieworsnop.com](https://sophieworsnop.com), see the github [here](www.github.com/sophiewo)
 
- 🌱 I’m currently learning: REACT
+ 🌱 **I’m currently developing my knowledge of..** REACT
 
- 📫 How to reach me:
- 
- 😄 Pronouns: (she/her)
+ 😄 **My pronouns are..**  she/her
 
- ⚡ Fun fact: I love knitting, checkout my creations @sophieknits_
+ ⚡ **When Im not coding..** you can find me gardening or [knitting](https://www.instagram.com/sophieknits_/)
 
