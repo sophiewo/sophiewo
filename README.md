@@ -2,7 +2,7 @@ Hi, I'm Sophie, a Makers graduate and full-stack developer. Coming from an archi
 
 I am now looking for a full-stack software developer role where I can use my previous experience as well as my new coding skills to make amazing products. 
 
- 🔭  **I’m currently working** on my website [sophieworsnop.com](https://sophieworsnop.com) (see the project on github [here](www.github.com/sophiewo/sophieworsnop.com))
+ 🔭  **I’m currently working** on my website [sophieworsnop.com](https://sophieworsnop.com) (see the project on github [here](https://github.com/sophiewo/sophieworsnop))
 
  🌱  **I’m currently developing my knowledge of** REACT
 
