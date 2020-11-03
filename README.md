@@ -6,9 +6,8 @@ I am now looking for a front-end or full-stack software developer role where I c
 
  😄  **My pronouns are**  she/her
 
- 🔭  **I’m currently working** on my website [sophieworsnop.com](https://sophieworsnop.com) (see the project on github [here](https://github.com/sophiewo/sophieworsnop))
+ 🔭  **I’m currently working** on my website [https://sophieworsnop.netlify.com](https://sophieworsnop.netlify.com) (see the project on github [here](https://github.com/sophiewo/sophieworsnop.com))
 
  ⚡ **When I'm not coding** you can find me gardening or knitting, (check out my knits [here](https://www.instagram.com/sophieknits_/))
  
- See below for some of the projects I worked on while at Makers
-
+ See below for some of the projects
