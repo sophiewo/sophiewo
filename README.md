@@ -1,6 +1,6 @@
 Hi, I'm Sophie, a Makers graduate and full-stack developer. 
 
-Coming from an architectural background I've spent my career thus far building stuff, ranging from a single page thermostat app to 100 apartment housing projects. 
+Coming from an architectural background I've spent my career thus far building cool things, from a single page thermostat app to 100 apartment housing projects. 
 
 I have always been drawn to the tech side of any design problem, from advanced CAD/3D modelling, photoshop and illustrator to scripts 
 
