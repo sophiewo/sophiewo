@@ -1,7 +1,6 @@
 <h2 align="center">  👋 Hi, I'm Sophie, a Makers graduate and full-stack developer </h2>
-<p align="center">
+
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sophieworsnop/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sophie.g.worsnop@gmail.com)
-</p>
 
 <p align="center"> Coming from an architectural background I've spent my career thus far building cool things </p>
 <p align="center"> from a single page thermostat app to 100 apartment housing projects </p>
