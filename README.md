@@ -12,7 +12,8 @@
 
  👩  **My pronouns are**  she/her
  
- 🧶 **I’m currently working** on a responsive React App providing tools to help design knitware[sophieworsnop.com](https://sophieworsnop.com) (see the project on github [here](https://github.com/sophiewo/sophieknits))
+ 🧶 **I’m currently working** on a responsive React App providing tools to help design knitware 
+ (see the project on github [here](https://github.com/sophiewo/sophieknits))
  
  🏠  **To see some of my architectural work** [sophieworsnop.com](https://sophieworsnop.com)
 
