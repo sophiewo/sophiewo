@@ -2,7 +2,7 @@
 
 Coming from an architectural background I've spent my career thus far building cool things - from a single page thermostat app to 100 apartment housing projects
 
-I should have known I'd end up as a dev as I was always been drawn to the software solution to any design problem
+I should have known I'd end up as a dev, I've always been drawn to the software solution to any design problem
 from advanced CAD/3D modelling, photoshop and illustrator to writing that script
 
  💻 **I am now looking for a role as a software developer**  where I can use my previous experience as well as my Ruby and Javascript skills to work on exciting projects.
