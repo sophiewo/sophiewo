@@ -20,5 +20,5 @@ from advanced CAD/3D modelling, photoshop and illustrator to writing that script
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sophie.g.worsnop@gmail.com) 
  
 
- <h4 align="center">⬇️   Checkout what I've been working on   ⬇️ </h4>
+ <h4 align="center">   ⬇️   Checkout what I've been working on   ⬇️ </h4>
  
