@@ -1,11 +1,11 @@
-<h2 align="center">  👋 Hi, I'm Sophie, a Makers graduate and full-stack developer </h2>
+<h2 align="center">  👋 Hi, I'm Sophie, a Makers graduate, a webdeveloper, architectural designer and knitting addict </h2>
 
-Coming from an architectural background I've spent my career thus far building cool things - from a single page thermostat app to 100 apartment housing projects
+Coming from an architectural background I've spent my career thus far building cool things - a React app that helps design knitwear  to 100 apartment housing projects
 
-I should have known I'd end up as a dev, I've always been drawn to the software solution to any design problem
-from advanced CAD/3D modelling, photoshop and illustrator to writing that script
+I should have known I'd end up as a dev of some sort, I've always been drawn to the software solution to any design problem
+from advanced CAD/3D modelling, photoshop and illustrator to writing that script for counting knitting stitches.
 
- 💻 **I am now looking for a role as a software developer**  where I can use my previous experience as well as my Ruby and Javascript skills to work on exciting projects.
+ 💻 **I am now looking working as a freelance designer and web developer**  where I am using my previous experience of 10 year working in the architecture and construction industry as well as my full stack Ruby and Javascript skills. If you want to work with me you can find my social links below.
 
  👩  **My pronouns are**  she/her
  
