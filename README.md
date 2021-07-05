@@ -1,13 +1,13 @@
-<h2 align="center">  👋 Hi, I'm Sophie,a web-developer + architectural/landscape designer </h2>
+<h2 align="center">  👋 Hi, I'm Sophie, a web-developer + architecture and landscape designer </h2>
 
-<h2 align="center"> I'm also a knitting addict and produce knitwear and patterns over at [here](https://www.instagram.com/sophieknits_) </h2>
+I'm also a knitting addict and produce knitwear and patterns over at [SophieKnits_](https://www.instagram.com/sophieknits_)
 
-Coming from an architectural background I've spent my career thus far building cool things - a React app that helps design knitwear  to 100 apartment housing projects
-
-I should have known I'd end up as a dev of some sort, I've always been drawn to the software solution to any design problem
+Coming from an architectural background I've spent my career thus far building cool things - a React App that helps design knitwear to 100 apartment housing projects. I should have known I'd end up as a dev of some sort, I've always been drawn to the software solution to any design problem
 from advanced CAD/3D modelling, photoshop and illustrator to writing that script for counting knitting stitches.
 
- 💻 **I am always interested in hearing about freelance opportunities ** I use my previous experience of 10 year working in architecture and design as well as my full stack skills gained at Makers Academy. If you want to work with me you can find my social links below.
+
+ 💻 **I am always interested in hearing about freelance opportunities** where I can use my previous experience of 10 year working in architecture and design as well as my full stack skills gained at Makers Academy. If you want to work with me you can find my social links below.
+ 
 
  👩  **My pronouns are**  she/her
  
