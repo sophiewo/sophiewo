@@ -1,6 +1,6 @@
 <h2 align="center">  👋 Hi, I'm Sophie,a web-developer + architectural/landscape designer </h2>
 
-<h2 align="center"> I'm also a knitting addict and produce knitwear and patterns over at SophieKnits_ 
+<h2 align="center"> I'm also a knitting addict and produce knitwear and patterns over at [SophieKnits_](https://www.instagram.com/sophieknits_/) </h2>
 
 Coming from an architectural background I've spent my career thus far building cool things - a React app that helps design knitwear  to 100 apartment housing projects
 
