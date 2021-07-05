@@ -1,18 +1,17 @@
-<h2 align="center">  👋 Hi, I'm Sophie, a Makers graduate, a webdeveloper, architectural designer and knitting addict </h2>
+<h2 align="center">  👋 Hi, I'm Sophie,a web-developer + architectural/landscape designer </h2>
+
+<h2 align="center"> I'm also a knitting addict and produce knitwear and patterns over at SophieKnits_ 
 
 Coming from an architectural background I've spent my career thus far building cool things - a React app that helps design knitwear  to 100 apartment housing projects
 
 I should have known I'd end up as a dev of some sort, I've always been drawn to the software solution to any design problem
 from advanced CAD/3D modelling, photoshop and illustrator to writing that script for counting knitting stitches.
 
- 💻 **I am now looking working as a freelance designer and web developer**  where I am using my previous experience of 10 year working in the architecture and construction industry as well as my full stack Ruby and Javascript skills. If you want to work with me you can find my social links below.
+ 💻 **I am always interested in hearing about freelance opportunities ** I use my previous experience of 10 year working in architecture and design as well as my full stack skills gained at Makers Academy. If you want to work with me you can find my social links below.
 
  👩  **My pronouns are**  she/her
  
- 🧶 **I’m currently working** on a responsive React App providing tools to help design knitware 
- (see the project on github [here](https://github.com/sophiewo/sophieknits))
- 
- 🏠  **To see some of my architectural work** [sophieworsnop.com](https://sophieworsnop.com)
+ 🏠  **To see some of my architectural work** [sophieworsnop.com](https://sophieworsnop.com) (More working coming soon to the site)
 
  🌿 **When I'm not coding** you can find me gardening or knitting
  
