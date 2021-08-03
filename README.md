@@ -8,11 +8,13 @@
 from advanced CAD/3D modelling, photoshop and illustrator to writing that script for counting knitting stitches.
 
 
- 💻 **Let's work together** I am always interested in hearing about freelance opportunities where I can use my experience of 10+ years working in architecture and design as well as my full stack skills gained at Makers Academy. Get in touch below
+
  
  🏠  **To see some of my architectural work** [sophieworsnop.com](https://sophieworsnop.com) (More work coming soon to the site)
 
 🌿 **When I'm not coding** you can find me gardening or knitting
+
+ 💻 **Let's work together** I am always interested in hearing about freelance opportunities where I can use my experience of 10+ years working in architecture and design as well as my full stack skills gained at Makers Academy. Get in touch below
  
  ###### [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sophie.g.worsnop@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sophieworsnop/) </h3>
 
