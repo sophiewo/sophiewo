@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sophie, a web-developer + architecture/landscape designer
+## 👋 Hi, I'm Sophie, a web-developer + architectural/landscape designer
 
 ### I'm also a knitting addict and produce knitwear and patterns over at [SophieKnits_](https://www.instagram.com/sophieknits_)
 
@@ -8,13 +8,13 @@
 from advanced CAD/3D modelling, photoshop and illustrator to writing that script for counting knitting stitches.
 
 
- 💻 **Let's work together** I am always interested in hearing about freelance opportunities where I can use my experience of 10 year working in architecture and design as well as my full stack skills gained at Makers Academy. Get in touch below
+ 💻 **Let's work together** I am always interested in hearing about freelance opportunities where I can use my experience of 10+ years working in architecture and design as well as my full stack skills gained at Makers Academy. Get in touch below
+ 
+ 🏠  **To see some of my architectural work** [sophieworsnop.com](https://sophieworsnop.com) (More work coming soon to the site)
+
+🌿 **When I'm not coding** you can find me gardening or knitting
  
  ###### [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sophie.g.worsnop@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sophieworsnop/) </h3>
 
- 🏠  **To see some of my architectural work** [sophieworsnop.com](https://sophieworsnop.com) (More working coming soon to the site)
 
- 🌿 **When I'm not coding** you can find me gardening or knitting
- 
 
- <h4 align="center">   ⬇️   Checkout what I've been working on   ⬇️ </h4>
